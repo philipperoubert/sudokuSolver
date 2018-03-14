@@ -14,9 +14,9 @@ or
 
 	$ python3 sudoku.py Grid1.ss 100
 
-*Note 1: In this example I'm using python3, but if your default python version is above 3.0 then you can use python as well
-*Note 2: Grid1.ss is the file containing the sudoku grid to be solved, 100 in this case represents the generation population
-*Note 3: You can edit the grid within the code, a sudoku grid is represented as a list of list
+* Note 1: In this example I'm using python3, but if your default python version is above 3.0 then you can use python as well
+* Note 2: Grid1.ss is the file containing the sudoku grid to be solved, 100 in this case represents the generation population
+* Note 3: You can edit the grid within the code, a sudoku grid is represented as a list of list
 
 A word on using the code: Feel free to use my code as much as you want as long as you include my name somewhere :) Obviously, if you copy my code, try to understand it!
 
