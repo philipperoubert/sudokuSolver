@@ -22,6 +22,6 @@ A word on using the code: Feel free to use my code as much as you want as long a
 
 Some features/changes that could be added/made:
 * Change the fitness function to something more complex that doesn't just include repetition of digits
-* Implement a feature that would allow different size of sudokus to be solved
+* Implement a feature that would allow different sizes of sudokus to be solved
 * For now the solver only allows a specific grid format to be input, so an idea would be to make the solver recognise what each box looks like rather to base itself on formats so that other grid formats can be input
 * Improve the general algorithm to find "obvious" missing digits (i.e.: if a sub-box contains already 8 digits, to add the missing 9th digit)
