@@ -1,3 +1,8 @@
+'''
+Author: Philippe Roubert
+Date: March 2018
+'''
+
 from random import choice, random, randint
 from math import sqrt
 import sys
